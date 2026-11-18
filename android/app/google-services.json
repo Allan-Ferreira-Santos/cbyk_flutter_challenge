@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "869666534879",
+    "project_id": "cbyk-flutter-challenge",
+    "storage_bucket": "cbyk-flutter-challenge.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869666534879:android:d0f7fe62a0bbbf5b5f806a",
+        "android_client_info": {
+          "package_name": "br.com.cbyk.cbyk_flutter_challenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869666534879-n03o6jnckavsb0ttqhsg5bplkbjuhdaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTHV6BJVAZDND3bEtjFOyNurht3fG8upc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869666534879-n03o6jnckavsb0ttqhsg5bplkbjuhdaf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "869666534879-ojo3o85fb1q90j4dd7i6ivhe056fn737.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.cbyk.cbykFlutterChallenge"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

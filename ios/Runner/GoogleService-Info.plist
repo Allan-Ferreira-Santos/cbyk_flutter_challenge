@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>869666534879-ojo3o85fb1q90j4dd7i6ivhe056fn737.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.869666534879-ojo3o85fb1q90j4dd7i6ivhe056fn737</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCHJuLQ_X9NLIuv5vNm45r6U6vhMISc9jI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>869666534879</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>br.com.cbyk.cbykFlutterChallenge</string>
+	<key>PROJECT_ID</key>
+	<string>cbyk-flutter-challenge</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cbyk-flutter-challenge.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:869666534879:ios:7e87485d5fb7e3765f806a</string>
+</dict>
+</plist>
