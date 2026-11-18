@@ -7,7 +7,7 @@ A proposta visual recria a experiência de um app de seguros no estilo Tokio Res
 | | |
 |--|--|
 | **Demo web** | [cbyk-flutter-challenge.web.app](https://cbyk-flutter-challenge.web.app) |
-| **Repositório** | [Allan-Ferreira-Santos/cbyk-flutter-challenge](https://github.com/Allan-Ferreira-Santos/cbyk-flutter-challenge) |
+| **Repositório** | [Allan-Ferreira-Santos/cbyk_flutter_challenge](https://github.com/Allan-Ferreira-Santos/cbyk_flutter_challenge) |
 
 ---
 
@@ -16,8 +16,8 @@ A proposta visual recria a experiência de um app de seguros no estilo Tokio Res
 Pré-requisitos: [Flutter](https://docs.flutter.dev/get-started/install) estável, Chrome e/ou emulador/device Android ou iOS (Xcode + CocoaPods no Mac).
 
 ```bash
-git clone https://github.com/Allan-Ferreira-Santos/cbyk-flutter-challenge.git
-cd cbyk-flutter-challenge
+git clone https://github.com/Allan-Ferreira-Santos/cbyk_flutter_challenge.git
+cd cbyk_flutter_challenge
 flutter pub get
 flutter run -d chrome    # Web
 flutter run              # Android / iOS
